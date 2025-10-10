@@ -1,4 +1,5 @@
 - Hi, I’m @artyxam
+- Student at Durham University
 - I’m interested in cybersec, hacking, and electronics
 - I’m currently learning discrete mathematiccs and electronics
 - How to reach me:
