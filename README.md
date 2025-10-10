@@ -1,7 +1,7 @@
 - Hi, I’m @artyxam
-- Student at Durham University
+- I am studying Computer Science at Durham University
 - I’m interested in cybersec, hacking, and electronics
-- I’m currently learning discrete mathematiccs and electronics
+- I’m currently learning discrete mathematics, computer systems, computational thinking, algorithms and data structures, and programming
 - How to reach me:
   Insta : @artyxam
 - Pronouns: he/him
